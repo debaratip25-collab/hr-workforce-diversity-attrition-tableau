@@ -1,0 +1,501 @@
+Employee ID,Employee Name,Age,Gender,Department,Job Role,Location,Education Level,Years at Company,Monthly Salary,Performance Rating,Job Satisfaction Score,Work-Life Balance Score,Training Hours,Promotion Status,Overtime Status,Employment Type,Diversity Category,Attrition Status,Attrition Risk Level
+EMP-1001,Priya Kumar,31,Female,Marketing,Brand Manager,Chennai,Bachelor's,3,50000,2,2,1,59,No,No,Full-Time,Age Diversity,No,Medium
+EMP-1002,Geeta Nair,37,Female,Finance,Finance Manager,Pune,Bachelor's,12,61000,2,2,2,32,No,No,Full-Time,Disability Inclusion,No,Medium
+EMP-1003,Mohan Patel,33,Male,Operations,Operations Manager,Bengaluru,High School,1,60000,5,5,4,73,No,Yes,Full-Time,Disability Inclusion,No,Medium
+EMP-1004,Nisha Pillai,24,Non-Binary,Finance,Finance Manager,Chennai,Bachelor's,3,58000,2,5,5,33,No,No,Contract,Gender Diversity,No,Low
+EMP-1005,Asha Gupta,45,Male,Operations,Operations Analyst,Hyderabad,Bachelor's,13,57000,4,2,1,48,No,No,Full-Time,Gender Diversity,Yes,Medium
+EMP-1006,Suresh Verma,49,Female,Sales,Business Dev Rep,Bengaluru,Master's,23,66000,3,5,2,38,No,Yes,Full-Time,None,Yes,Medium
+EMP-1007,Nisha Mehta,56,Male,Engineering,QA Engineer,Hyderabad,Bachelor's,6,97000,5,5,2,7,No,No,Full-Time,Gender Diversity,No,Low
+EMP-1008,Rohan Malhotra,30,Male,Marketing,Content Strategist,Pune,Bachelor's,0,47000,2,1,4,67,Yes,Yes,Contract,Gender Diversity,Yes,High
+EMP-1009,Aditya Sharma,29,Female,Sales,Account Manager,Bengaluru,Bachelor's,18,47000,1,3,2,65,No,No,Contract,Ethnic Diversity,No,Medium
+EMP-1010,Deepak Singh,40,Male,IT,Data Analyst,Pune,Bachelor's,1,67000,2,5,3,77,No,No,Full-Time,None,No,Low
+EMP-1011,Swati Joshi,47,Male,Engineering,Software Engineer,Mumbai,Bachelor's,2,68000,2,1,1,59,Yes,Yes,Full-Time,Age Diversity,No,High
+EMP-1012,Asha Khanna,42,Female,Operations,Process Engineer,Chennai,Master's,6,59000,5,2,1,27,No,Yes,Contract,Gender Diversity,No,High
+EMP-1013,Vikram Das,59,Male,Operations,Process Engineer,Delhi,Bachelor's,6,53000,4,1,4,59,No,No,Full-Time,None,No,Low
+EMP-1014,Sneha Patel,38,Female,Marketing,Marketing Analyst,Pune,Master's,12,73000,5,4,5,1,No,No,Full-Time,Gender Diversity,No,Low
+EMP-1015,Rohan Chopra,60,Female,Marketing,Marketing Analyst,Mumbai,High School,9,63000,4,1,3,47,No,No,Full-Time,None,No,Medium
+EMP-1016,Deepak Mehta,48,Non-Binary,Sales,Sales Manager,Chennai,PhD,4,62000,4,2,1,33,No,No,Full-Time,Age Diversity,No,Medium
+EMP-1017,Sneha Khanna,45,Male,Operations,Operations Manager,Chennai,High School,13,59000,3,3,4,19,No,Yes,Part-Time,Ethnic Diversity,No,Medium
+EMP-1018,Rajesh Singh,37,Female,IT,IT Support,Mumbai,Master's,24,87000,4,2,3,72,No,Yes,Full-Time,Age Diversity,Yes,High
+EMP-1019,Sunita Shah,23,Male,Finance,Accountant,Hyderabad,Master's,24,88000,5,3,5,33,No,No,Full-Time,None,No,Low
+EMP-1020,Rajesh Singh,51,Male,Engineering,Software Engineer,Hyderabad,Bachelor's,5,102000,5,4,5,45,No,No,Full-Time,Ethnic Diversity,No,Low
+EMP-1021,Suresh Iyer,29,Male,Sales,Sales Executive,Chennai,Bachelor's,18,55000,1,4,2,34,No,Yes,Full-Time,Disability Inclusion,No,Medium
+EMP-1022,Vikram Khanna,33,Male,HR,Compensation Analyst,Hyderabad,Bachelor's,19,51000,3,4,2,44,Yes,No,Part-Time,Age Diversity,No,Low
+EMP-1023,Kavya Verma,46,Male,Engineering,QA Engineer,Pune,Bachelor's,20,83000,2,3,3,78,No,No,Full-Time,None,Yes,Low
+EMP-1024,Geeta Pillai,31,Female,Marketing,Marketing Analyst,Chennai,PhD,16,65000,4,5,5,79,No,No,Full-Time,Gender Diversity,No,Low
+EMP-1025,Rekha Reddy,39,Male,Engineering,Engineering Manager,Bengaluru,Bachelor's,14,80000,2,2,1,71,No,No,Full-Time,Ethnic Diversity,Yes,Medium
+EMP-1026,Sneha Khanna,43,Female,IT,Network Engineer,Bengaluru,Bachelor's,19,78000,2,1,5,75,No,No,Full-Time,Gender Diversity,No,Low
+EMP-1027,Geeta Joshi,47,Female,IT,Data Analyst,Chennai,Bachelor's,1,67000,3,4,2,37,No,Yes,Part-Time,None,No,High
+EMP-1028,Rohan Malhotra,23,Male,HR,HR Generalist,Bengaluru,Master's,25,54000,3,2,2,43,No,Yes,Full-Time,Age Diversity,Yes,High
+EMP-1029,Pooja Das,31,Male,Operations,Supply Chain Manager,Delhi,Master's,12,52000,3,5,1,38,No,Yes,Part-Time,Ethnic Diversity,No,Medium
+EMP-1030,Meera Patel,33,Male,Finance,Financial Analyst,Delhi,Master's,2,65000,3,5,2,12,No,Yes,Full-Time,Disability Inclusion,No,Medium
+EMP-1031,Aditya Rao,26,Male,Marketing,Campaign Manager,Mumbai,Bachelor's,13,62000,4,4,2,27,No,No,Full-Time,Gender Diversity,No,Low
+EMP-1032,Ananya Nair,34,Non-Binary,HR,HR Generalist,Delhi,Bachelor's,17,57000,4,3,3,71,No,Yes,Full-Time,Ethnic Diversity,Yes,Medium
+EMP-1033,Swati Gupta,47,Male,IT,Data Analyst,Pune,Master's,18,80000,3,2,3,68,No,Yes,Full-Time,None,Yes,High
+EMP-1034,Amit Rao,35,Female,Finance,Accountant,Chennai,Bachelor's,15,87000,5,3,4,30,No,No,Full-Time,None,No,Low
+EMP-1035,Rekha Malhotra,57,Non-Binary,Sales,Sales Manager,Bengaluru,High School,21,67000,3,2,4,33,Yes,No,Part-Time,Gender Diversity,No,Low
+EMP-1036,Asha Chopra,25,Male,Operations,Process Engineer,Pune,PhD,25,66000,5,5,4,21,No,No,Full-Time,Ethnic Diversity,No,Low
+EMP-1037,Lakshmi Singh,44,Male,Sales,Sales Manager,Mumbai,PhD,23,73000,5,2,1,48,Yes,Yes,Full-Time,Gender Diversity,Yes,High
+EMP-1038,Rohan Reddy,46,Female,IT,Data Analyst,Delhi,Master's,7,62000,2,5,5,71,Yes,No,Full-Time,None,No,Low
+EMP-1039,Rekha Bose,24,Male,Finance,Auditor,Bengaluru,Master's,4,64000,3,1,3,7,Yes,No,Full-Time,Gender Diversity,No,Medium
+EMP-1040,Neha Bose,40,Male,Marketing,Marketing Analyst,Chennai,Master's,8,51000,1,3,3,34,Yes,No,Full-Time,Gender Diversity,No,Low
+EMP-1041,Rahul Bose,34,Non-Binary,IT,Data Analyst,Mumbai,Master's,3,82000,4,5,5,18,Yes,Yes,Full-Time,None,No,Low
+EMP-1042,Ananya Mehta,36,Female,Operations,Operations Manager,Hyderabad,Master's,23,55000,3,1,2,31,Yes,No,Full-Time,None,No,Medium
+EMP-1043,Neha Mehta,52,Male,Marketing,Marketing Analyst,Delhi,High School,11,64000,4,1,2,75,Yes,Yes,Part-Time,None,No,High
+EMP-1044,Kavya Mishra,47,Non-Binary,IT,IT Manager,Bengaluru,Bachelor's,12,64000,1,5,2,15,No,No,Full-Time,None,No,Low
+EMP-1045,Amit Gupta,42,Male,Sales,Sales Manager,Pune,Bachelor's,6,71000,5,5,4,16,Yes,No,Full-Time,None,No,Low
+EMP-1046,Nikhil Joshi,32,Male,Finance,Accountant,Mumbai,Bachelor's,6,54000,1,4,2,23,No,No,Contract,None,No,Low
+EMP-1047,Mohan Gupta,57,Male,Marketing,Content Strategist,Hyderabad,Bachelor's,5,47000,1,2,3,33,Yes,No,Full-Time,Gender Diversity,No,Medium
+EMP-1048,Mohan Rao,31,Male,Finance,Finance Manager,Pune,Bachelor's,5,71000,4,1,1,8,Yes,Yes,Full-Time,Disability Inclusion,No,High
+EMP-1049,Rohan Joshi,41,Female,Sales,Sales Executive,Hyderabad,Bachelor's,15,66000,3,5,3,51,No,Yes,Full-Time,Gender Diversity,No,Medium
+EMP-1050,Sunita Joshi,52,Male,Marketing,Marketing Analyst,Pune,Bachelor's,12,59000,2,3,3,7,Yes,No,Full-Time,None,No,Low
+EMP-1051,Geeta Verma,35,Female,Engineering,Senior Engineer,Pune,Bachelor's,22,112000,5,2,4,66,No,Yes,Full-Time,Age Diversity,No,Medium
+EMP-1052,Rajesh Rao,35,Female,Operations,Operations Manager,Mumbai,Bachelor's,23,54000,2,1,5,9,No,No,Contract,Ethnic Diversity,No,Low
+EMP-1053,Meera Singh,31,Female,Finance,Auditor,Pune,PhD,16,66000,2,1,5,5,Yes,No,Full-Time,None,No,Low
+EMP-1054,Sneha Iyer,24,Female,Engineering,Software Engineer,Bengaluru,Master's,13,85000,3,4,4,23,No,No,Full-Time,None,No,Low
+EMP-1055,Pooja Pillai,55,Male,IT,IT Support,Pune,Bachelor's,4,83000,4,4,5,27,No,No,Contract,Age Diversity,No,Low
+EMP-1056,Sneha Singh,59,Female,Sales,Sales Manager,Pune,Bachelor's,13,58000,3,2,2,66,No,No,Full-Time,Ethnic Diversity,No,Medium
+EMP-1057,Rekha Kumar,45,Female,Finance,Auditor,Delhi,Bachelor's,24,73000,2,1,2,52,Yes,No,Full-Time,None,No,Medium
+EMP-1058,Pooja Gupta,24,Male,IT,IT Manager,Delhi,Master's,11,86000,5,5,4,52,No,No,Full-Time,None,No,Low
+EMP-1059,Nikhil Das,44,Female,Finance,Financial Analyst,Pune,Bachelor's,6,71000,4,5,5,16,No,No,Full-Time,None,No,Low
+EMP-1060,Aditya Patel,29,Male,Sales,Account Manager,Chennai,Master's,12,51000,2,5,5,53,No,Yes,Full-Time,None,No,Low
+EMP-1061,Rohan Sharma,53,Male,Finance,Financial Analyst,Chennai,Master's,20,58000,1,5,5,60,No,No,Contract,Age Diversity,No,Low
+EMP-1062,Arjun Nair,31,Male,Finance,Auditor,Mumbai,Bachelor's,24,82000,3,3,4,40,No,No,Full-Time,None,No,Low
+EMP-1063,Siddharth Patel,49,Female,Engineering,Engineering Manager,Mumbai,Bachelor's,8,105000,5,3,1,68,No,No,Full-Time,None,No,Medium
+EMP-1064,Siddharth Iyer,50,Female,Engineering,QA Engineer,Mumbai,Master's,0,66000,1,5,2,11,No,Yes,Full-Time,Gender Diversity,Yes,High
+EMP-1065,Rohan Malhotra,41,Male,Sales,Business Dev Rep,Hyderabad,Bachelor's,22,67000,4,5,5,6,No,Yes,Part-Time,None,No,Low
+EMP-1066,Sneha Verma,43,Male,HR,HR Generalist,Delhi,Bachelor's,17,38000,1,4,5,25,No,No,Full-Time,None,No,Low
+EMP-1067,Ananya Pillai,29,Male,Finance,Financial Analyst,Mumbai,Master's,13,84000,5,1,5,3,Yes,No,Full-Time,None,No,Low
+EMP-1068,Kavya Patel,46,Male,Engineering,Engineering Manager,Bengaluru,Master's,25,110000,5,2,2,11,No,Yes,Full-Time,Ethnic Diversity,Yes,High
+EMP-1069,Divya Iyer,39,Male,Engineering,Software Engineer,Delhi,Bachelor's,23,107000,4,3,2,9,No,No,Part-Time,Ethnic Diversity,No,Medium
+EMP-1070,Mohan Iyer,51,Male,Operations,Operations Analyst,Bengaluru,Bachelor's,23,60000,3,2,3,16,Yes,No,Full-Time,None,No,Medium
+EMP-1071,Lakshmi Das,39,Female,Sales,Sales Executive,Chennai,Bachelor's,19,66000,3,5,3,38,No,Yes,Full-Time,Ethnic Diversity,No,Medium
+EMP-1072,Amit Mehta,28,Male,Engineering,DevOps Engineer,Delhi,Bachelor's,9,99000,5,4,2,26,No,No,Contract,None,Yes,Low
+EMP-1073,Sneha Gupta,44,Male,Marketing,Content Strategist,Delhi,Master's,4,47000,1,5,5,3,No,No,Part-Time,Gender Diversity,No,Low
+EMP-1074,Rohan Mishra,56,Female,IT,Systems Admin,Delhi,Bachelor's,17,69000,2,4,1,41,No,No,Full-Time,Disability Inclusion,No,Low
+EMP-1075,Pooja Singh,35,Male,Engineering,Engineering Manager,Delhi,Master's,15,107000,5,1,5,23,No,No,Full-Time,Gender Diversity,No,Low
+EMP-1076,Amit Pillai,36,Male,Operations,Process Engineer,Hyderabad,Master's,5,43000,2,4,3,10,Yes,Yes,Full-Time,Age Diversity,No,Medium
+EMP-1077,Rekha Singh,50,Female,HR,HR Manager,Mumbai,Bachelor's,12,53000,4,3,1,69,No,No,Full-Time,Disability Inclusion,No,Medium
+EMP-1078,Meera Bose,39,Male,Finance,Finance Manager,Mumbai,PhD,11,74000,4,1,1,50,No,No,Full-Time,None,No,Medium
+EMP-1079,Nikhil Reddy,45,Female,IT,Systems Admin,Pune,Bachelor's,16,86000,4,3,1,79,No,No,Full-Time,Gender Diversity,No,Medium
+EMP-1080,Ananya Joshi,30,Female,Operations,Supply Chain Manager,Bengaluru,PhD,10,52000,2,5,2,64,Yes,No,Full-Time,Ethnic Diversity,No,Low
+EMP-1081,Rajesh Shah,36,Male,HR,Compensation Analyst,Pune,Bachelor's,21,50000,3,3,4,32,No,Yes,Full-Time,Ethnic Diversity,No,Medium
+EMP-1082,Ravi Patel,50,Male,Finance,Accountant,Bengaluru,Master's,3,82000,5,3,3,40,No,No,Full-Time,None,No,Low
+EMP-1083,Manish Gupta,46,Female,IT,IT Manager,Bengaluru,Bachelor's,9,70000,2,4,4,41,No,No,Full-Time,None,No,Low
+EMP-1084,Manish Mehta,49,Male,HR,Compensation Analyst,Mumbai,Master's,18,60000,5,3,3,20,Yes,No,Full-Time,Ethnic Diversity,No,Low
+EMP-1085,Ravi Shah,24,Female,Engineering,Senior Engineer,Mumbai,Bachelor's,20,78000,1,5,1,1,No,Yes,Full-Time,Age Diversity,Yes,Medium
+EMP-1086,Geeta Shah,35,Male,Marketing,Marketing Analyst,Mumbai,Master's,7,56000,2,5,4,56,No,No,Full-Time,Gender Diversity,No,Low
+EMP-1087,Arjun Kumar,30,Female,Sales,Sales Manager,Bengaluru,Master's,23,52000,1,5,2,32,No,Yes,Full-Time,None,Yes,Medium
+EMP-1088,Rekha Singh,47,Female,Engineering,Engineering Manager,Mumbai,PhD,17,89000,3,3,4,6,No,No,Full-Time,None,No,Low
+EMP-1089,Siddharth Singh,59,Male,IT,IT Manager,Bengaluru,Master's,6,88000,5,2,3,2,No,No,Full-Time,None,No,Medium
+EMP-1090,Swati Rao,35,Female,IT,IT Manager,Chennai,Bachelor's,21,76000,2,4,1,41,No,No,Full-Time,None,No,Low
+EMP-1091,Divya Reddy,24,Female,Sales,Business Dev Rep,Hyderabad,PhD,25,71000,3,4,3,23,No,Yes,Full-Time,None,No,Medium
+EMP-1092,Rajesh Shah,25,Female,Engineering,Senior Engineer,Chennai,Master's,21,79000,1,3,4,57,Yes,No,Full-Time,None,No,Low
+EMP-1093,Rohan Shah,37,Female,IT,Systems Admin,Hyderabad,PhD,3,62000,2,5,4,18,No,No,Part-Time,Disability Inclusion,No,Low
+EMP-1094,Amit Gupta,35,Female,HR,HR Generalist,Mumbai,Master's,3,45000,2,5,2,11,No,Yes,Part-Time,Disability Inclusion,No,Medium
+EMP-1095,Manish Khanna,47,Female,HR,Recruiter,Chennai,Bachelor's,21,57000,3,4,3,44,Yes,No,Full-Time,Gender Diversity,No,Low
+EMP-1096,Ravi Kumar,27,Male,IT,Network Engineer,Chennai,Master's,9,59000,1,4,4,11,Yes,Yes,Part-Time,Ethnic Diversity,No,Low
+EMP-1097,Nisha Bose,49,Female,HR,HR Manager,Chennai,Bachelor's,7,52000,3,4,5,2,Yes,No,Full-Time,None,No,Low
+EMP-1098,Deepak Reddy,49,Female,Operations,Supply Chain Manager,Bengaluru,Bachelor's,18,58000,3,3,1,66,No,No,Full-Time,Age Diversity,No,Medium
+EMP-1099,Rohan Khanna,31,Male,Marketing,Brand Manager,Pune,Bachelor's,17,53000,2,3,2,15,No,Yes,Full-Time,Ethnic Diversity,Yes,High
+EMP-1100,Karan Chopra,54,Male,IT,IT Support,Hyderabad,High School,19,68000,1,3,1,46,No,No,Full-Time,None,No,Medium
+EMP-1101,Sunita Rao,48,Male,Finance,Financial Analyst,Mumbai,Bachelor's,8,72000,4,4,2,35,Yes,No,Part-Time,Gender Diversity,No,Low
+EMP-1102,Priya Kumar,45,Male,IT,IT Support,Mumbai,Bachelor's,22,73000,2,3,2,56,No,No,Part-Time,None,No,Medium
+EMP-1103,Karan Patel,46,Female,Sales,Sales Manager,Hyderabad,Master's,23,64000,2,4,5,40,Yes,Yes,Contract,None,No,Low
+EMP-1104,Rahul Mishra,54,Male,Engineering,Senior Engineer,Delhi,Master's,11,70000,1,1,1,59,Yes,Yes,Contract,None,Yes,High
+EMP-1105,Deepak Mehta,32,Female,Marketing,Campaign Manager,Hyderabad,Master's,0,40000,1,4,3,61,No,No,Contract,Gender Diversity,No,Low
+EMP-1106,Ravi Reddy,47,Male,Sales,Business Dev Rep,Chennai,Master's,15,71000,5,4,2,7,No,Yes,Full-Time,None,No,Medium
+EMP-1107,Divya Chopra,41,Male,HR,HR Manager,Chennai,Bachelor's,12,46000,2,2,4,73,No,Yes,Full-Time,Age Diversity,No,Medium
+EMP-1108,Rahul Shah,31,Male,Marketing,Marketing Analyst,Pune,High School,12,74000,5,2,3,40,No,No,Full-Time,Gender Diversity,No,Medium
+EMP-1109,Asha Verma,34,Female,Operations,Operations Manager,Mumbai,Bachelor's,0,50000,3,2,2,45,No,Yes,Full-Time,Age Diversity,No,High
+EMP-1110,Arjun Joshi,30,Female,Finance,Accountant,Hyderabad,High School,3,63000,3,5,2,63,No,No,Full-Time,None,No,Low
+EMP-1111,Suresh Shah,28,Male,Sales,Sales Executive,Mumbai,Bachelor's,22,67000,4,3,1,63,Yes,Yes,Full-Time,Disability Inclusion,Yes,High
+EMP-1112,Suresh Joshi,50,Male,Sales,Sales Manager,Mumbai,Bachelor's,6,54000,3,4,4,65,Yes,Yes,Part-Time,Age Diversity,No,Low
+EMP-1113,Asha Pillai,40,Male,HR,HR Manager,Pune,Master's,6,56000,5,3,3,79,No,No,Full-Time,None,Yes,Low
+EMP-1114,Divya Iyer,22,Male,Operations,Operations Analyst,Delhi,High School,9,58000,4,4,2,2,Yes,No,Part-Time,Gender Diversity,No,Low
+EMP-1115,Nisha Shah,60,Male,Finance,Financial Analyst,Hyderabad,Bachelor's,7,58000,2,2,4,48,No,No,Full-Time,Gender Diversity,No,Low
+EMP-1116,Nisha Das,41,Female,IT,IT Manager,Hyderabad,Master's,0,84000,5,4,1,0,No,No,Full-Time,Ethnic Diversity,No,Medium
+EMP-1117,Ananya Verma,33,Female,Marketing,Campaign Manager,Mumbai,Bachelor's,9,61000,4,2,5,46,No,Yes,Full-Time,None,No,Medium
+EMP-1118,Rekha Verma,31,Male,Engineering,Senior Engineer,Mumbai,High School,1,60000,1,1,4,49,No,Yes,Part-Time,None,No,High
+EMP-1119,Lakshmi Joshi,29,Female,Operations,Process Engineer,Delhi,Bachelor's,2,43000,2,5,2,71,No,Yes,Part-Time,Gender Diversity,No,Medium
+EMP-1120,Meera Shah,51,Female,Finance,Auditor,Chennai,Master's,6,65000,3,5,4,7,No,No,Full-Time,Gender Diversity,No,Low
+EMP-1121,Ananya Chopra,53,Male,Engineering,DevOps Engineer,Bengaluru,Master's,3,71000,2,2,4,11,Yes,No,Part-Time,Ethnic Diversity,No,Low
+EMP-1122,Priya Mishra,38,Female,IT,IT Support,Hyderabad,Bachelor's,8,84000,4,3,5,40,Yes,No,Part-Time,Gender Diversity,No,Low
+EMP-1123,Amit Kumar,44,Male,Engineering,DevOps Engineer,Mumbai,Master's,1,85000,3,3,1,20,No,No,Part-Time,Age Diversity,No,Medium
+EMP-1124,Neha Rao,36,Female,Engineering,Engineering Manager,Pune,Bachelor's,8,93000,4,4,2,77,No,No,Full-Time,None,No,Low
+EMP-1125,Karan Khanna,49,Female,IT,Data Analyst,Chennai,Master's,22,77000,2,2,1,42,No,No,Full-Time,Gender Diversity,No,Medium
+EMP-1126,Arjun Singh,28,Male,HR,HR Generalist,Mumbai,Bachelor's,9,48000,3,3,3,42,Yes,No,Full-Time,Disability Inclusion,No,Low
+EMP-1127,Siddharth Nair,53,Female,Operations,Supply Chain Manager,Hyderabad,Master's,7,58000,4,1,2,11,Yes,No,Full-Time,None,No,Medium
+EMP-1128,Geeta Iyer,28,Female,Sales,Business Dev Rep,Mumbai,Bachelor's,17,64000,4,5,1,44,Yes,No,Contract,None,No,Low
+EMP-1129,Lakshmi Gupta,22,Female,Engineering,Senior Engineer,Mumbai,Bachelor's,5,69000,1,5,2,47,No,Yes,Full-Time,None,No,Medium
+EMP-1130,Swati Mishra,26,Female,Operations,Operations Manager,Pune,High School,0,56000,4,3,2,13,Yes,Yes,Full-Time,Disability Inclusion,No,High
+EMP-1131,Kavya Malhotra,46,Female,HR,HR Manager,Delhi,Bachelor's,7,54000,4,3,4,39,No,No,Full-Time,None,No,Low
+EMP-1132,Nikhil Iyer,55,Non-Binary,HR,Compensation Analyst,Pune,Master's,24,51000,2,4,5,50,Yes,No,Contract,Ethnic Diversity,No,Low
+EMP-1133,Amit Iyer,50,Male,Engineering,Senior Engineer,Chennai,Master's,18,95000,4,4,4,71,No,Yes,Full-Time,Disability Inclusion,No,Low
+EMP-1134,Siddharth Mehta,43,Female,Engineering,QA Engineer,Hyderabad,Master's,13,83000,3,5,3,59,No,No,Full-Time,Ethnic Diversity,No,Low
+EMP-1135,Lakshmi Das,43,Male,Engineering,Software Engineer,Chennai,Bachelor's,1,67000,1,3,5,61,No,Yes,Full-Time,None,No,Medium
+EMP-1136,Divya Chopra,44,Male,Operations,Operations Analyst,Pune,PhD,4,49000,3,1,4,11,Yes,No,Contract,Ethnic Diversity,No,Low
+EMP-1137,Geeta Pillai,32,Female,HR,Recruiter,Delhi,Bachelor's,0,52000,4,1,1,70,No,No,Full-Time,Age Diversity,Yes,High
+EMP-1138,Siddharth Pillai,51,Male,Sales,Account Manager,Bengaluru,Master's,16,52000,1,5,3,42,No,Yes,Contract,None,No,Medium
+EMP-1139,Sneha Malhotra,38,Male,Finance,Accountant,Bengaluru,Bachelor's,17,65000,1,5,5,71,No,No,Full-Time,Ethnic Diversity,No,Low
+EMP-1140,Karan Joshi,58,Male,Finance,Finance Manager,Hyderabad,Bachelor's,11,73000,3,2,1,47,No,No,Full-Time,None,No,Medium
+EMP-1141,Suresh Das,37,Female,Sales,Sales Manager,Delhi,Master's,6,55000,2,5,4,75,No,Yes,Full-Time,Ethnic Diversity,No,Low
+EMP-1142,Neha Chopra,28,Male,Finance,Accountant,Pune,Master's,22,92000,5,4,3,62,No,No,Contract,Gender Diversity,No,Low
+EMP-1143,Priya Pillai,30,Female,Sales,Account Manager,Chennai,Master's,19,75000,5,3,1,7,No,No,Full-Time,None,No,Medium
+EMP-1144,Pooja Sharma,55,Male,Marketing,Campaign Manager,Delhi,Bachelor's,20,71000,4,3,3,46,No,No,Full-Time,Ethnic Diversity,No,Low
+EMP-1145,Rekha Khanna,33,Female,Operations,Process Engineer,Mumbai,Bachelor's,4,45000,2,3,5,16,No,Yes,Full-Time,Age Diversity,No,Medium
+EMP-1146,Arjun Das,49,Male,IT,Data Analyst,Hyderabad,Bachelor's,0,79000,4,4,5,50,No,No,Full-Time,None,No,Low
+EMP-1147,Sunita Joshi,33,Male,HR,Recruiter,Bengaluru,Bachelor's,2,51000,4,2,2,1,Yes,No,Contract,Age Diversity,No,Medium
+EMP-1148,Rahul Iyer,53,Male,IT,IT Manager,Bengaluru,PhD,16,89000,5,5,5,14,Yes,No,Full-Time,Gender Diversity,No,Low
+EMP-1149,Nikhil Malhotra,22,Male,Finance,Auditor,Bengaluru,Master's,2,76000,5,3,1,77,No,No,Full-Time,Age Diversity,No,Medium
+EMP-1150,Nisha Verma,53,Male,Operations,Supply Chain Manager,Chennai,Master's,24,58000,3,2,1,42,No,Yes,Full-Time,Ethnic Diversity,Yes,High
+EMP-1151,Geeta Reddy,28,Male,Operations,Process Engineer,Chennai,Master's,12,65000,5,5,2,17,No,No,Part-Time,Ethnic Diversity,No,Low
+EMP-1152,Ravi Verma,55,Male,IT,IT Manager,Chennai,Master's,9,87000,5,2,5,8,No,Yes,Part-Time,Age Diversity,No,Medium
+EMP-1153,Arjun Sharma,53,Female,Sales,Sales Executive,Mumbai,High School,5,62000,3,1,3,51,No,No,Full-Time,Gender Diversity,No,Medium
+EMP-1154,Vikram Joshi,34,Male,Operations,Process Engineer,Hyderabad,Bachelor's,8,45000,1,3,2,43,No,Yes,Contract,Gender Diversity,Yes,High
+EMP-1155,Sneha Verma,30,Female,Finance,Finance Manager,Pune,Master's,13,65000,2,5,1,70,Yes,Yes,Contract,Ethnic Diversity,No,Medium
+EMP-1156,Ravi Gupta,48,Non-Binary,Sales,Business Dev Rep,Hyderabad,Bachelor's,21,63000,2,1,3,7,No,Yes,Contract,Ethnic Diversity,Yes,High
+EMP-1157,Nikhil Mehta,57,Female,Marketing,Content Strategist,Hyderabad,Master's,17,69000,4,4,3,15,No,No,Full-Time,None,No,Low
+EMP-1158,Meera Malhotra,39,Female,Finance,Financial Analyst,Mumbai,High School,16,70000,2,3,1,39,No,No,Full-Time,None,Yes,Medium
+EMP-1159,Arjun Singh,31,Male,HR,Compensation Analyst,Chennai,Bachelor's,12,48000,3,2,1,29,No,No,Contract,Age Diversity,No,Medium
+EMP-1160,Meera Shah,43,Female,IT,Systems Admin,Bengaluru,Bachelor's,6,90000,5,2,1,8,No,No,Full-Time,Gender Diversity,No,Medium
+EMP-1161,Deepak Chopra,46,Non-Binary,HR,HR Manager,Delhi,High School,13,51000,3,3,3,49,No,No,Full-Time,None,No,Low
+EMP-1162,Nikhil Sharma,26,Male,Marketing,Marketing Analyst,Pune,Bachelor's,19,70000,5,1,1,0,Yes,No,Part-Time,Gender Diversity,No,Medium
+EMP-1163,Divya Bose,23,Male,IT,Systems Admin,Delhi,Master's,7,88000,5,1,3,48,Yes,No,Full-Time,None,No,Medium
+EMP-1164,Amit Mehta,33,Female,Finance,Financial Analyst,Delhi,Master's,3,57000,1,2,1,6,No,Yes,Full-Time,Ethnic Diversity,No,High
+EMP-1165,Meera Pillai,32,Female,Operations,Process Engineer,Delhi,Bachelor's,0,54000,4,1,4,50,No,No,Full-Time,Gender Diversity,No,Medium
+EMP-1166,Karan Sharma,35,Male,Engineering,QA Engineer,Hyderabad,Bachelor's,1,77000,3,1,2,0,Yes,No,Part-Time,Ethnic Diversity,No,High
+EMP-1167,Nikhil Das,29,Male,Operations,Operations Analyst,Hyderabad,High School,17,63000,4,1,1,60,No,No,Full-Time,Ethnic Diversity,No,Medium
+EMP-1168,Mohan Kumar,26,Male,HR,Compensation Analyst,Mumbai,PhD,14,53000,4,1,4,45,No,No,Full-Time,Age Diversity,No,Low
+EMP-1169,Kavya Nair,49,Male,Finance,Finance Manager,Mumbai,Master's,10,74000,3,1,5,6,No,Yes,Full-Time,None,No,Medium
+EMP-1170,Ravi Kumar,55,Male,Marketing,Brand Manager,Mumbai,Bachelor's,10,69000,5,1,4,55,No,No,Full-Time,Ethnic Diversity,No,Low
+EMP-1171,Rahul Kumar,59,Female,Marketing,Brand Manager,Chennai,Master's,24,56000,2,3,4,41,No,No,Contract,Disability Inclusion,No,Low
+EMP-1172,Rajesh Iyer,50,Male,Sales,Sales Executive,Pune,High School,4,47000,1,2,5,18,No,No,Full-Time,Age Diversity,No,Low
+EMP-1173,Aditya Singh,60,Female,HR,Recruiter,Hyderabad,PhD,5,60000,5,2,5,68,No,No,Contract,Disability Inclusion,No,Low
+EMP-1174,Manish Verma,35,Male,Operations,Operations Analyst,Chennai,Master's,21,50000,2,1,4,45,Yes,Yes,Part-Time,Disability Inclusion,No,Medium
+EMP-1175,Lakshmi Das,30,Male,Sales,Sales Manager,Delhi,Bachelor's,13,72000,5,2,3,47,No,Yes,Full-Time,Gender Diversity,No,High
+EMP-1176,Lakshmi Mishra,52,Male,Sales,Account Manager,Pune,Bachelor's,10,62000,3,2,3,38,Yes,No,Full-Time,Ethnic Diversity,No,Medium
+EMP-1177,Ananya Mishra,35,Male,Finance,Auditor,Chennai,Bachelor's,3,80000,5,4,3,69,No,Yes,Full-Time,Age Diversity,No,Medium
+EMP-1178,Karan Rao,35,Female,Marketing,Campaign Manager,Bengaluru,High School,10,65000,4,2,4,60,No,No,Full-Time,Ethnic Diversity,No,Low
+EMP-1179,Amit Sharma,23,Male,Engineering,QA Engineer,Hyderabad,Bachelor's,6,75000,2,3,5,45,No,No,Full-Time,None,No,Low
+EMP-1180,Vikram Patel,37,Male,Finance,Financial Analyst,Delhi,Master's,1,61000,3,4,1,69,No,No,Full-Time,Gender Diversity,No,Medium
+EMP-1181,Nikhil Gupta,25,Female,HR,HR Generalist,Bengaluru,Master's,25,58000,3,4,1,40,No,No,Full-Time,Age Diversity,No,Low
+EMP-1182,Priya Das,43,Female,Engineering,Software Engineer,Bengaluru,Master's,18,88000,3,4,4,5,Yes,No,Full-Time,None,No,Low
+EMP-1183,Arjun Malhotra,54,Female,Sales,Account Manager,Bengaluru,Master's,17,73000,5,5,4,53,No,No,Full-Time,Age Diversity,No,Low
+EMP-1184,Nisha Singh,29,Female,Engineering,DevOps Engineer,Chennai,Master's,20,77000,1,1,4,11,No,Yes,Full-Time,Ethnic Diversity,No,Medium
+EMP-1185,Siddharth Shah,47,Non-Binary,Engineering,QA Engineer,Chennai,Bachelor's,17,79000,1,3,1,35,No,Yes,Full-Time,None,Yes,High
+EMP-1186,Vikram Sharma,36,Non-Binary,Finance,Accountant,Mumbai,Master's,8,85000,5,3,4,28,No,No,Full-Time,None,No,Low
+EMP-1187,Swati Gupta,30,Male,Sales,Sales Executive,Chennai,High School,13,48000,1,3,1,69,No,No,Full-Time,None,No,Medium
+EMP-1188,Rohan Joshi,42,Non-Binary,Operations,Process Engineer,Delhi,Bachelor's,4,61000,4,1,1,60,No,No,Full-Time,None,No,Medium
+EMP-1189,Suresh Patel,45,Female,HR,Recruiter,Bengaluru,Master's,14,55000,3,1,2,25,No,Yes,Contract,None,No,High
+EMP-1190,Karan Mishra,59,Male,Operations,Process Engineer,Mumbai,High School,6,59000,5,3,2,10,No,Yes,Full-Time,None,No,High
+EMP-1191,Kavya Joshi,44,Female,Engineering,DevOps Engineer,Mumbai,Bachelor's,15,105000,5,3,3,39,Yes,Yes,Full-Time,Gender Diversity,Yes,Medium
+EMP-1192,Asha Kumar,36,Non-Binary,Marketing,Marketing Analyst,Chennai,PhD,11,47000,1,4,1,30,No,No,Full-Time,Gender Diversity,No,Low
+EMP-1193,Pooja Pillai,60,Female,Engineering,QA Engineer,Mumbai,Bachelor's,22,104000,4,1,4,79,Yes,No,Full-Time,None,No,Low
+EMP-1194,Divya Mehta,25,Female,Marketing,Content Strategist,Pune,Master's,13,68000,5,5,1,53,No,No,Full-Time,Ethnic Diversity,No,Low
+EMP-1195,Nikhil Singh,49,Male,Engineering,Senior Engineer,Bengaluru,Bachelor's,4,77000,2,3,1,13,No,No,Full-Time,Gender Diversity,No,Medium
+EMP-1196,Asha Nair,25,Female,Finance,Accountant,Chennai,Master's,0,62000,2,3,4,32,No,No,Full-Time,None,No,Low
+EMP-1197,Sneha Bose,29,Female,Engineering,Engineering Manager,Mumbai,Bachelor's,25,98000,3,1,4,12,No,Yes,Full-Time,None,No,Medium
+EMP-1198,Divya Rao,41,Male,Engineering,Engineering Manager,Pune,Bachelor's,15,75000,1,5,1,64,No,No,Full-Time,None,No,Low
+EMP-1199,Karan Patel,35,Male,Operations,Supply Chain Manager,Delhi,Master's,6,52000,3,3,3,74,Yes,No,Full-Time,Gender Diversity,No,Low
+EMP-1200,Divya Chopra,55,Male,IT,Systems Admin,Bengaluru,Bachelor's,15,74000,2,1,5,16,No,No,Full-Time,None,No,Low
+EMP-1201,Sunita Singh,29,Male,Engineering,Senior Engineer,Bengaluru,Bachelor's,24,115000,5,4,1,65,No,No,Part-Time,Age Diversity,No,Low
+EMP-1202,Rohan Kumar,44,Non-Binary,Engineering,Engineering Manager,Mumbai,Master's,25,108000,5,2,5,68,Yes,No,Full-Time,None,No,Low
+EMP-1203,Siddharth Chopra,41,Non-Binary,Finance,Finance Manager,Chennai,Bachelor's,12,88000,5,1,2,0,No,No,Full-Time,Disability Inclusion,No,Medium
+EMP-1204,Ravi Gupta,27,Male,Marketing,Campaign Manager,Pune,Bachelor's,17,63000,4,3,3,28,No,No,Full-Time,Gender Diversity,No,Low
+EMP-1205,Neha Chopra,57,Male,HR,Recruiter,Bengaluru,Bachelor's,8,43000,1,1,5,40,Yes,No,Full-Time,Disability Inclusion,No,Low
+EMP-1206,Manish Gupta,22,Female,Marketing,Campaign Manager,Hyderabad,Bachelor's,13,45000,1,4,3,58,No,No,Full-Time,None,No,Low
+EMP-1207,Arjun Kumar,60,Female,IT,Data Analyst,Bengaluru,Master's,13,67000,1,3,5,4,No,Yes,Full-Time,Age Diversity,No,Medium
+EMP-1208,Swati Pillai,43,Female,Operations,Process Engineer,Mumbai,Master's,15,49000,1,3,1,24,Yes,Yes,Part-Time,None,No,High
+EMP-1209,Rohan Reddy,56,Male,Operations,Process Engineer,Bengaluru,High School,10,42000,1,2,2,53,Yes,Yes,Full-Time,Age Diversity,Yes,High
+EMP-1210,Deepak Bose,51,Male,Sales,Sales Manager,Hyderabad,High School,8,61000,3,1,2,59,No,No,Full-Time,Gender Diversity,No,Medium
+EMP-1211,Lakshmi Khanna,54,Male,Operations,Operations Manager,Delhi,Bachelor's,24,54000,2,1,2,44,No,Yes,Part-Time,Age Diversity,No,High
+EMP-1212,Rahul Kumar,44,Male,Engineering,Senior Engineer,Chennai,Bachelor's,6,75000,2,2,5,38,No,No,Full-Time,None,No,Low
+EMP-1213,Nikhil Iyer,45,Male,Operations,Process Engineer,Mumbai,Bachelor's,21,63000,4,4,4,70,Yes,No,Part-Time,Ethnic Diversity,No,Low
+EMP-1214,Rohan Reddy,36,Female,Sales,Sales Executive,Mumbai,Master's,15,53000,2,5,2,21,No,No,Full-Time,Ethnic Diversity,No,Low
+EMP-1215,Mohan Kumar,46,Female,Operations,Operations Analyst,Mumbai,Bachelor's,22,54000,2,1,1,65,Yes,No,Full-Time,None,No,Medium
+EMP-1216,Rajesh Mehta,51,Female,IT,Network Engineer,Pune,Bachelor's,0,60000,1,4,4,48,No,No,Part-Time,None,No,Low
+EMP-1217,Geeta Sharma,56,Female,Operations,Process Engineer,Bengaluru,Bachelor's,6,47000,2,5,1,47,Yes,Yes,Contract,Ethnic Diversity,No,Medium
+EMP-1218,Manish Singh,27,Male,Sales,Sales Manager,Chennai,Master's,20,66000,4,3,1,5,No,No,Full-Time,Ethnic Diversity,No,Medium
+EMP-1219,Deepak Verma,41,Male,Operations,Operations Analyst,Pune,Bachelor's,8,49000,2,1,2,5,Yes,No,Full-Time,Gender Diversity,No,Medium
+EMP-1220,Mohan Mishra,26,Male,IT,Data Analyst,Chennai,Master's,16,91000,5,1,3,0,No,No,Part-Time,Gender Diversity,No,Medium
+EMP-1221,Vikram Verma,48,Male,Operations,Supply Chain Manager,Mumbai,Master's,5,65000,5,1,2,38,No,Yes,Full-Time,None,Yes,High
+EMP-1222,Vikram Kumar,26,Non-Binary,IT,Network Engineer,Pune,Bachelor's,6,62000,1,3,2,24,No,No,Full-Time,Disability Inclusion,No,Medium
+EMP-1223,Nikhil Mehta,51,Female,Engineering,QA Engineer,Bengaluru,Master's,12,84000,3,5,3,78,No,No,Full-Time,Age Diversity,No,Low
+EMP-1224,Swati Gupta,58,Female,Marketing,Campaign Manager,Hyderabad,High School,23,52000,1,3,5,22,No,No,Full-Time,Ethnic Diversity,Yes,Low
+EMP-1225,Rohan Nair,42,Female,Sales,Business Dev Rep,Mumbai,Master's,4,62000,4,5,3,68,No,Yes,Full-Time,None,No,Medium
+EMP-1226,Mohan Pillai,31,Male,Operations,Operations Analyst,Chennai,Bachelor's,8,50000,2,4,1,76,Yes,No,Full-Time,Age Diversity,No,Low
+EMP-1227,Aditya Reddy,32,Male,Finance,Auditor,Bengaluru,Master's,7,77000,4,4,2,55,Yes,Yes,Full-Time,None,No,Medium
+EMP-1228,Meera Verma,52,Non-Binary,HR,Compensation Analyst,Mumbai,Bachelor's,13,56000,4,1,3,13,Yes,Yes,Full-Time,None,Yes,High
+EMP-1229,Swati Kumar,50,Female,Operations,Operations Manager,Hyderabad,Master's,16,63000,4,3,2,37,No,No,Full-Time,None,No,Medium
+EMP-1230,Asha Malhotra,23,Male,Engineering,Senior Engineer,Chennai,Bachelor's,16,97000,4,2,2,47,No,No,Full-Time,Gender Diversity,No,Medium
+EMP-1231,Lakshmi Chopra,40,Female,Engineering,Software Engineer,Hyderabad,Master's,5,80000,3,5,1,70,Yes,No,Part-Time,None,No,Low
+EMP-1232,Mohan Bose,32,Non-Binary,Sales,Sales Manager,Delhi,Master's,21,54000,2,1,4,2,Yes,No,Full-Time,Age Diversity,No,Low
+EMP-1233,Divya Chopra,54,Male,Marketing,Marketing Analyst,Delhi,Master's,20,57000,1,2,3,22,No,No,Full-Time,Age Diversity,Yes,Medium
+EMP-1234,Nikhil Mehta,41,Female,IT,Network Engineer,Mumbai,Master's,4,75000,4,1,1,67,No,No,Part-Time,None,No,Medium
+EMP-1235,Geeta Kumar,40,Male,Sales,Sales Manager,Hyderabad,Bachelor's,0,60000,4,3,2,57,No,No,Full-Time,Ethnic Diversity,No,Medium
+EMP-1236,Siddharth Patel,60,Female,Engineering,Senior Engineer,Hyderabad,Master's,10,66000,1,2,4,17,No,Yes,Contract,None,Yes,Medium
+EMP-1237,Pooja Pillai,47,Male,Operations,Operations Analyst,Pune,Master's,13,61000,4,4,1,66,Yes,No,Contract,Gender Diversity,No,Low
+EMP-1238,Deepak Joshi,59,Male,Engineering,QA Engineer,Mumbai,Bachelor's,24,91000,3,4,4,7,No,No,Full-Time,None,No,Low
+EMP-1239,Nisha Singh,57,Male,Sales,Sales Executive,Mumbai,Bachelor's,20,56000,1,1,5,4,No,Yes,Full-Time,Ethnic Diversity,No,Medium
+EMP-1240,Swati Pillai,24,Female,Marketing,Content Strategist,Hyderabad,Master's,8,68000,5,3,1,23,No,No,Full-Time,Ethnic Diversity,No,Medium
+EMP-1241,Amit Joshi,39,Female,Finance,Finance Manager,Bengaluru,PhD,20,82000,4,3,3,52,No,No,Part-Time,Gender Diversity,No,Low
+EMP-1242,Nikhil Mishra,36,Male,Finance,Auditor,Mumbai,Bachelor's,6,52000,1,4,4,66,No,Yes,Full-Time,None,No,Low
+EMP-1243,Amit Nair,57,Male,Engineering,DevOps Engineer,Chennai,Master's,9,92000,4,4,1,9,No,Yes,Full-Time,Ethnic Diversity,No,Medium
+EMP-1244,Pooja Verma,55,Male,Finance,Auditor,Hyderabad,Bachelor's,1,76000,4,1,4,6,No,Yes,Full-Time,None,No,High
+EMP-1245,Swati Khanna,23,Male,IT,Data Analyst,Mumbai,High School,6,55000,1,2,5,69,No,No,Full-Time,None,No,Low
+EMP-1246,Geeta Patel,26,Male,HR,HR Manager,Chennai,Bachelor's,19,53000,3,5,3,56,No,No,Contract,Ethnic Diversity,No,Low
+EMP-1247,Kavya Patel,30,Female,IT,Systems Admin,Delhi,PhD,3,83000,5,1,5,38,No,Yes,Part-Time,None,No,Medium
+EMP-1248,Rohan Pillai,60,Male,Sales,Account Manager,Delhi,High School,13,61000,3,4,3,23,No,No,Full-Time,Age Diversity,No,Low
+EMP-1249,Rahul Iyer,39,Non-Binary,Operations,Operations Manager,Delhi,Bachelor's,1,47000,3,4,4,29,No,Yes,Full-Time,Disability Inclusion,No,Medium
+EMP-1250,Suresh Iyer,34,Female,Sales,Business Dev Rep,Mumbai,Bachelor's,10,75000,5,1,3,56,No,Yes,Full-Time,None,No,High
+EMP-1251,Siddharth Pillai,41,Male,Marketing,Content Strategist,Chennai,High School,2,54000,3,3,5,23,No,No,Full-Time,Gender Diversity,No,Low
+EMP-1252,Kavya Gupta,53,Male,Operations,Operations Manager,Chennai,Bachelor's,6,50000,3,3,5,28,No,No,Contract,None,No,Low
+EMP-1253,Nikhil Chopra,38,Male,HR,Recruiter,Hyderabad,High School,18,52000,2,3,1,60,No,Yes,Full-Time,None,No,High
+EMP-1254,Sneha Rao,32,Female,Engineering,Software Engineer,Mumbai,High School,25,101000,4,5,2,21,No,No,Full-Time,Ethnic Diversity,Yes,Low
+EMP-1255,Deepak Singh,52,Female,Marketing,Campaign Manager,Mumbai,Master's,11,49000,1,4,1,29,No,No,Contract,Gender Diversity,No,Low
+EMP-1256,Rajesh Rao,44,Female,HR,Recruiter,Bengaluru,Master's,17,59000,4,1,1,77,No,No,Part-Time,None,No,Medium
+EMP-1257,Suresh Joshi,31,Female,Operations,Operations Analyst,Pune,Bachelor's,11,49000,2,1,5,75,Yes,No,Full-Time,Age Diversity,No,Low
+EMP-1258,Siddharth Mehta,52,Male,Marketing,Brand Manager,Bengaluru,Master's,20,66000,4,4,1,78,Yes,Yes,Full-Time,Age Diversity,Yes,Medium
+EMP-1259,Siddharth Shah,22,Female,IT,Data Analyst,Hyderabad,Master's,24,95000,4,5,5,65,Yes,No,Full-Time,Gender Diversity,No,Low
+EMP-1260,Sneha Shah,44,Male,Finance,Accountant,Hyderabad,High School,2,51000,1,3,4,33,No,No,Full-Time,Gender Diversity,No,Low
+EMP-1261,Vikram Rao,36,Female,Sales,Sales Manager,Chennai,Bachelor's,1,50000,2,2,3,36,No,Yes,Full-Time,Age Diversity,Yes,High
+EMP-1262,Ananya Patel,55,Female,Engineering,Software Engineer,Bengaluru,Master's,5,84000,3,4,5,60,No,No,Contract,None,No,Low
+EMP-1263,Nikhil Khanna,43,Female,HR,Compensation Analyst,Pune,Bachelor's,17,60000,4,3,3,11,Yes,No,Full-Time,Ethnic Diversity,No,Low
+EMP-1264,Sunita Malhotra,29,Male,HR,Recruiter,Pune,Bachelor's,14,45000,1,4,3,46,No,No,Full-Time,None,No,Low
+EMP-1265,Asha Kumar,40,Female,Sales,Account Manager,Delhi,Bachelor's,9,67000,5,5,3,22,No,No,Full-Time,None,No,Low
+EMP-1266,Meera Verma,38,Female,Marketing,Brand Manager,Pune,Master's,6,59000,4,2,2,16,No,No,Full-Time,None,No,Medium
+EMP-1267,Rahul Bose,48,Female,Sales,Sales Manager,Bengaluru,Master's,0,42000,1,4,3,58,Yes,No,Part-Time,None,No,Low
+EMP-1268,Rahul Shah,29,Male,Engineering,Software Engineer,Mumbai,Master's,14,95000,4,5,5,60,Yes,No,Part-Time,Ethnic Diversity,No,Low
+EMP-1269,Sunita Khanna,41,Female,Marketing,Brand Manager,Mumbai,High School,7,53000,2,4,3,33,Yes,Yes,Full-Time,Gender Diversity,No,Medium
+EMP-1270,Swati Sharma,42,Male,Finance,Finance Manager,Hyderabad,Bachelor's,13,64000,1,5,1,67,No,No,Full-Time,Ethnic Diversity,No,Low
+EMP-1271,Swati Das,32,Female,Operations,Supply Chain Manager,Pune,Bachelor's,5,46000,1,4,2,0,Yes,Yes,Part-Time,None,Yes,Medium
+EMP-1272,Rohan Khanna,42,Female,IT,Data Analyst,Mumbai,Master's,14,70000,2,5,1,39,No,Yes,Full-Time,None,No,Medium
+EMP-1273,Priya Nair,59,Female,Sales,Business Dev Rep,Chennai,Master's,14,71000,5,2,5,5,No,No,Contract,None,No,Low
+EMP-1274,Pooja Pillai,41,Male,HR,HR Generalist,Delhi,Master's,15,39000,1,5,5,21,No,No,Part-Time,None,No,Low
+EMP-1275,Rekha Joshi,55,Female,IT,Network Engineer,Pune,Master's,4,86000,5,5,5,37,No,No,Full-Time,Disability Inclusion,No,Low
+EMP-1276,Meera Nair,32,Female,Engineering,Engineering Manager,Pune,Bachelor's,5,86000,3,5,3,32,Yes,Yes,Contract,None,No,Medium
+EMP-1277,Rahul Patel,28,Male,HR,Compensation Analyst,Chennai,Bachelor's,22,67000,5,4,1,62,No,No,Full-Time,Disability Inclusion,No,Low
+EMP-1278,Swati Patel,29,Male,Operations,Process Engineer,Delhi,Master's,20,60000,3,1,2,30,Yes,No,Full-Time,Ethnic Diversity,No,Medium
+EMP-1279,Swati Joshi,36,Female,Operations,Operations Manager,Chennai,High School,8,53000,3,4,3,18,No,Yes,Contract,Gender Diversity,Yes,Medium
+EMP-1280,Aditya Sharma,58,Female,Sales,Account Manager,Delhi,Bachelor's,21,60000,3,4,1,45,Yes,No,Full-Time,None,No,Low
+EMP-1281,Manish Bose,34,Male,Engineering,Engineering Manager,Pune,PhD,4,93000,4,5,2,21,No,No,Full-Time,None,Yes,Low
+EMP-1282,Pooja Iyer,33,Female,Engineering,Software Engineer,Delhi,Bachelor's,2,93000,4,5,5,2,No,No,Part-Time,Disability Inclusion,No,Low
+EMP-1283,Geeta Shah,55,Male,Engineering,Software Engineer,Pune,Bachelor's,3,92000,4,5,5,25,Yes,No,Contract,None,No,Low
+EMP-1284,Ananya Gupta,48,Female,HR,HR Manager,Hyderabad,Bachelor's,12,43000,1,3,3,38,No,No,Part-Time,Ethnic Diversity,No,Low
+EMP-1285,Vikram Khanna,27,Female,HR,HR Manager,Hyderabad,Bachelor's,22,45000,1,3,5,8,Yes,No,Full-Time,Ethnic Diversity,No,Low
+EMP-1286,Ananya Kumar,24,Male,IT,Data Analyst,Mumbai,Bachelor's,16,90000,5,3,3,70,Yes,No,Full-Time,Gender Diversity,No,Low
+EMP-1287,Karan Patel,56,Female,HR,Compensation Analyst,Pune,PhD,5,52000,5,3,3,10,No,No,Full-Time,None,No,Low
+EMP-1288,Neha Chopra,29,Male,HR,Compensation Analyst,Hyderabad,High School,7,34000,1,1,1,9,Yes,No,Full-Time,Ethnic Diversity,No,Medium
+EMP-1289,Nikhil Patel,29,Female,HR,Recruiter,Mumbai,Bachelor's,7,54000,5,3,4,41,No,Yes,Full-Time,None,Yes,Medium
+EMP-1290,Sunita Mehta,60,Female,Finance,Auditor,Chennai,Master's,14,65000,2,5,4,71,Yes,Yes,Full-Time,None,No,Low
+EMP-1291,Mohan Verma,55,Male,HR,HR Manager,Bengaluru,Bachelor's,0,52000,4,5,5,35,No,Yes,Part-Time,None,No,Medium
+EMP-1292,Nisha Iyer,34,Male,Sales,Sales Manager,Delhi,Bachelor's,7,52000,2,3,5,51,Yes,No,Full-Time,None,No,Low
+EMP-1293,Ananya Khanna,32,Female,IT,Systems Admin,Delhi,Master's,15,89000,5,1,5,64,Yes,No,Full-Time,None,No,Low
+EMP-1294,Rekha Joshi,27,Male,Finance,Auditor,Mumbai,Master's,22,93000,5,2,4,34,Yes,No,Part-Time,None,No,Low
+EMP-1295,Priya Singh,37,Male,Operations,Operations Analyst,Hyderabad,Master's,10,48000,1,3,4,36,No,No,Contract,Gender Diversity,No,Low
+EMP-1296,Priya Verma,33,Male,Engineering,Engineering Manager,Pune,Bachelor's,10,99000,4,1,4,58,No,No,Full-Time,Ethnic Diversity,No,Low
+EMP-1297,Sneha Mehta,48,Female,Finance,Accountant,Delhi,PhD,8,77000,4,3,1,32,No,No,Contract,Ethnic Diversity,No,Medium
+EMP-1298,Ravi Iyer,44,Female,Sales,Sales Manager,Delhi,High School,18,60000,3,1,3,14,Yes,Yes,Contract,None,No,High
+EMP-1299,Aditya Bose,57,Male,IT,IT Support,Delhi,Master's,23,69000,1,3,2,0,No,No,Full-Time,None,Yes,Medium
+EMP-1300,Nikhil Singh,27,Male,Sales,Account Manager,Delhi,Bachelor's,3,53000,3,4,1,12,No,No,Full-Time,None,No,Low
+EMP-1301,Neha Joshi,35,Male,Engineering,QA Engineer,Hyderabad,High School,22,97000,3,5,5,76,No,No,Part-Time,None,No,Low
+EMP-1302,Karan Pillai,34,Male,Finance,Accountant,Pune,Master's,10,72000,3,2,4,35,No,No,Contract,Gender Diversity,No,Low
+EMP-1303,Rahul Iyer,28,Male,Finance,Financial Analyst,Bengaluru,Bachelor's,5,79000,5,4,4,80,No,No,Full-Time,Ethnic Diversity,No,Low
+EMP-1304,Lakshmi Chopra,36,Female,Engineering,Senior Engineer,Pune,Bachelor's,4,67000,1,4,5,25,No,No,Full-Time,Disability Inclusion,No,Low
+EMP-1305,Swati Verma,42,Male,HR,HR Generalist,Hyderabad,PhD,14,64000,5,3,5,12,No,No,Part-Time,Age Diversity,No,Low
+EMP-1306,Ananya Iyer,22,Female,IT,Data Analyst,Chennai,Bachelor's,25,88000,3,4,1,49,No,No,Full-Time,None,No,Low
+EMP-1307,Lakshmi Verma,34,Non-Binary,IT,Data Analyst,Bengaluru,Master's,21,91000,4,5,2,63,Yes,No,Full-Time,Gender Diversity,No,Low
+EMP-1308,Karan Rao,34,Male,Operations,Operations Manager,Chennai,Bachelor's,14,61000,4,1,2,77,No,No,Full-Time,Gender Diversity,No,Medium
+EMP-1309,Asha Verma,39,Male,Sales,Sales Manager,Mumbai,Master's,7,65000,5,3,1,45,Yes,No,Full-Time,Age Diversity,Yes,Medium
+EMP-1310,Aditya Chopra,58,Male,Operations,Supply Chain Manager,Chennai,Master's,25,59000,2,3,1,43,No,Yes,Full-Time,Age Diversity,No,High
+EMP-1311,Amit Sharma,49,Female,Marketing,Brand Manager,Bengaluru,Bachelor's,6,61000,3,5,5,29,No,Yes,Full-Time,None,No,Low
+EMP-1312,Sunita Mehta,52,Female,Finance,Financial Analyst,Hyderabad,Bachelor's,17,72000,3,1,3,52,No,No,Contract,Age Diversity,No,Medium
+EMP-1313,Manish Malhotra,39,Female,Operations,Operations Manager,Bengaluru,Bachelor's,14,58000,4,3,4,47,Yes,No,Part-Time,None,No,Low
+EMP-1314,Kavya Reddy,50,Male,HR,HR Generalist,Chennai,Bachelor's,8,58000,5,2,3,0,No,No,Contract,None,Yes,Medium
+EMP-1315,Suresh Iyer,55,Male,IT,Data Analyst,Mumbai,PhD,3,84000,5,5,2,3,No,No,Full-Time,None,No,Low
+EMP-1316,Karan Verma,57,Non-Binary,Engineering,DevOps Engineer,Bengaluru,Master's,10,93000,4,1,3,39,Yes,No,Full-Time,Gender Diversity,No,Medium
+EMP-1317,Swati Kumar,38,Male,Finance,Finance Manager,Bengaluru,Bachelor's,20,72000,2,2,1,16,No,No,Contract,None,No,Medium
+EMP-1318,Rahul Mehta,58,Male,Operations,Operations Analyst,Pune,Master's,2,44000,2,1,5,60,Yes,No,Contract,Age Diversity,No,Low
+EMP-1319,Sunita Sharma,56,Male,IT,IT Support,Hyderabad,Bachelor's,19,93000,5,4,3,66,No,No,Full-Time,Disability Inclusion,No,Low
+EMP-1320,Ravi Chopra,43,Male,Finance,Finance Manager,Chennai,Master's,25,62000,1,3,5,29,No,No,Contract,Gender Diversity,No,Low
+EMP-1321,Ananya Pillai,23,Male,HR,HR Generalist,Hyderabad,Master's,0,59000,5,2,1,45,No,No,Contract,None,No,High
+EMP-1322,Aditya Bose,22,Male,Marketing,Content Strategist,Delhi,Bachelor's,13,62000,3,1,2,1,Yes,Yes,Full-Time,None,No,High
+EMP-1323,Kavya Iyer,55,Female,Engineering,Engineering Manager,Chennai,Bachelor's,17,97000,4,4,2,11,No,No,Full-Time,Gender Diversity,No,Low
+EMP-1324,Geeta Chopra,60,Female,Engineering,Engineering Manager,Pune,High School,3,76000,2,2,4,3,Yes,No,Contract,Ethnic Diversity,No,Low
+EMP-1325,Geeta Iyer,54,Male,Sales,Sales Manager,Hyderabad,Bachelor's,15,70000,5,5,2,10,No,No,Full-Time,Ethnic Diversity,No,Low
+EMP-1326,Siddharth Joshi,56,Female,Finance,Accountant,Delhi,Bachelor's,4,64000,3,1,1,39,Yes,No,Full-Time,Ethnic Diversity,No,Medium
+EMP-1327,Karan Sharma,38,Male,Marketing,Content Strategist,Hyderabad,PhD,2,61000,4,4,5,42,No,No,Full-Time,Ethnic Diversity,No,Low
+EMP-1328,Priya Singh,33,Male,Finance,Finance Manager,Chennai,PhD,24,79000,3,1,5,64,Yes,No,Full-Time,Gender Diversity,No,Low
+EMP-1329,Meera Sharma,48,Female,Operations,Operations Analyst,Hyderabad,Bachelor's,0,57000,5,2,4,80,No,No,Full-Time,None,No,Medium
+EMP-1330,Ravi Singh,57,Female,Finance,Accountant,Bengaluru,High School,14,82000,5,3,5,27,No,No,Contract,Disability Inclusion,No,Low
+EMP-1331,Ananya Singh,30,Male,IT,IT Support,Delhi,Master's,16,75000,2,2,3,71,No,Yes,Full-Time,Ethnic Diversity,Yes,High
+EMP-1332,Vikram Joshi,25,Male,Sales,Sales Manager,Hyderabad,Bachelor's,8,65000,5,3,2,18,Yes,No,Full-Time,None,No,Medium
+EMP-1333,Geeta Mehta,27,Male,IT,Systems Admin,Delhi,Master's,16,60000,1,5,5,65,No,No,Full-Time,Gender Diversity,No,Low
+EMP-1334,Nikhil Verma,33,Female,Operations,Operations Analyst,Delhi,PhD,0,62000,5,4,5,70,Yes,No,Full-Time,Age Diversity,No,Low
+EMP-1335,Rohan Iyer,49,Male,HR,Compensation Analyst,Mumbai,Bachelor's,18,61000,5,2,2,50,No,No,Full-Time,Age Diversity,Yes,Medium
+EMP-1336,Swati Malhotra,54,Male,Marketing,Brand Manager,Pune,Bachelor's,0,45000,1,3,5,38,No,No,Full-Time,None,Yes,Low
+EMP-1337,Manish Nair,52,Male,Sales,Business Dev Rep,Mumbai,High School,15,65000,4,4,4,74,Yes,Yes,Full-Time,None,No,Low
+EMP-1338,Sneha Iyer,47,Female,Operations,Operations Manager,Bengaluru,PhD,6,54000,3,4,5,28,Yes,Yes,Full-Time,Age Diversity,No,Low
+EMP-1339,Neha Reddy,54,Male,HR,Compensation Analyst,Chennai,Bachelor's,25,62000,4,3,4,68,No,No,Full-Time,Gender Diversity,No,Low
+EMP-1340,Ananya Joshi,49,Female,Operations,Operations Manager,Hyderabad,Master's,5,51000,3,1,3,36,No,Yes,Full-Time,Age Diversity,Yes,High
+EMP-1341,Manish Reddy,35,Male,IT,IT Manager,Delhi,Bachelor's,18,69000,1,1,5,79,No,No,Full-Time,Gender Diversity,No,Low
+EMP-1342,Rohan Shah,51,Male,Operations,Operations Manager,Delhi,Bachelor's,20,58000,4,2,1,77,No,No,Part-Time,Age Diversity,No,Medium
+EMP-1343,Kavya Patel,22,Male,Finance,Finance Manager,Delhi,Bachelor's,22,74000,3,3,2,43,No,No,Full-Time,Ethnic Diversity,No,Medium
+EMP-1344,Ravi Verma,45,Female,Sales,Business Dev Rep,Chennai,Bachelor's,1,41000,1,2,1,2,No,Yes,Full-Time,None,No,High
+EMP-1345,Asha Shah,37,Male,HR,Compensation Analyst,Delhi,High School,2,36000,1,3,5,34,Yes,No,Full-Time,None,No,Low
+EMP-1346,Sunita Mishra,50,Female,Marketing,Campaign Manager,Hyderabad,Master's,7,68000,4,4,4,40,No,Yes,Full-Time,None,No,Low
+EMP-1347,Lakshmi Sharma,39,Male,HR,HR Generalist,Chennai,Master's,14,42000,2,4,1,1,No,No,Full-Time,Ethnic Diversity,No,Low
+EMP-1348,Arjun Nair,43,Female,Engineering,QA Engineer,Bengaluru,Bachelor's,20,79000,1,1,5,35,No,Yes,Full-Time,None,No,Medium
+EMP-1349,Ravi Verma,31,Male,Sales,Sales Manager,Delhi,Bachelor's,15,47000,1,1,1,60,No,No,Full-Time,Gender Diversity,Yes,Medium
+EMP-1350,Arjun Bose,48,Female,Marketing,Marketing Analyst,Chennai,Bachelor's,5,62000,4,3,5,11,Yes,Yes,Full-Time,None,No,Medium
+EMP-1351,Ananya Patel,37,Male,Finance,Accountant,Mumbai,Master's,20,89000,5,3,3,21,No,No,Full-Time,Age Diversity,No,Low
+EMP-1352,Swati Singh,26,Male,Engineering,QA Engineer,Hyderabad,Bachelor's,9,84000,3,5,5,1,No,No,Part-Time,Ethnic Diversity,No,Low
+EMP-1353,Mohan Das,30,Non-Binary,Marketing,Content Strategist,Bengaluru,Bachelor's,0,68000,5,1,5,51,No,No,Part-Time,Disability Inclusion,Yes,Medium
+EMP-1354,Amit Gupta,25,Non-Binary,Finance,Auditor,Pune,Master's,20,62000,1,2,3,18,No,No,Full-Time,Ethnic Diversity,No,Medium
+EMP-1355,Kavya Chopra,27,Female,Sales,Sales Executive,Pune,Bachelor's,3,53000,2,5,1,51,No,No,Full-Time,Ethnic Diversity,No,Low
+EMP-1356,Amit Das,34,Male,IT,Data Analyst,Pune,Bachelor's,4,84000,5,4,4,54,No,No,Full-Time,Ethnic Diversity,No,Low
+EMP-1357,Rahul Mishra,46,Male,IT,Systems Admin,Chennai,Master's,5,90000,5,5,2,29,No,No,Full-Time,Gender Diversity,No,Low
+EMP-1358,Siddharth Verma,59,Female,Marketing,Campaign Manager,Delhi,Master's,24,59000,2,1,3,70,Yes,Yes,Full-Time,None,Yes,High
+EMP-1359,Priya Rao,28,Female,Operations,Operations Analyst,Hyderabad,Master's,8,53000,2,1,2,50,No,No,Contract,Gender Diversity,No,Medium
+EMP-1360,Kavya Reddy,37,Male,Engineering,Engineering Manager,Pune,Bachelor's,7,102000,5,3,1,56,No,Yes,Full-Time,Gender Diversity,No,High
+EMP-1361,Vikram Joshi,31,Female,IT,IT Manager,Chennai,Master's,18,85000,4,5,2,17,Yes,Yes,Full-Time,None,Yes,Medium
+EMP-1362,Arjun Mishra,41,Non-Binary,Engineering,Software Engineer,Chennai,Master's,20,92000,3,2,1,39,No,No,Full-Time,Age Diversity,Yes,Medium
+EMP-1363,Arjun Mishra,41,Female,Engineering,Senior Engineer,Hyderabad,PhD,1,81000,3,1,2,68,No,No,Full-Time,Disability Inclusion,Yes,High
+EMP-1364,Kavya Verma,47,Male,Sales,Business Dev Rep,Chennai,High School,18,70000,4,4,2,25,Yes,No,Part-Time,Gender Diversity,No,Low
+EMP-1365,Kavya Gupta,53,Male,HR,Compensation Analyst,Pune,Master's,11,41000,2,2,5,58,No,Yes,Part-Time,None,Yes,Medium
+EMP-1366,Manish Sharma,40,Female,Marketing,Campaign Manager,Delhi,Bachelor's,10,73000,5,2,1,38,No,No,Part-Time,Age Diversity,No,Medium
+EMP-1367,Aditya Bose,34,Female,Marketing,Content Strategist,Bengaluru,Bachelor's,20,74000,4,3,2,31,No,Yes,Full-Time,Ethnic Diversity,Yes,High
+EMP-1368,Sneha Verma,59,Female,Operations,Operations Manager,Hyderabad,Master's,6,55000,3,3,1,21,No,No,Full-Time,Gender Diversity,Yes,Medium
+EMP-1369,Ananya Nair,27,Male,Finance,Accountant,Hyderabad,High School,12,62000,2,3,3,79,No,No,Part-Time,Ethnic Diversity,No,Low
+EMP-1370,Ravi Singh,33,Male,HR,Recruiter,Delhi,Master's,0,34000,1,5,2,33,Yes,Yes,Full-Time,Ethnic Diversity,Yes,High
+EMP-1371,Rajesh Kumar,47,Female,Finance,Financial Analyst,Hyderabad,Bachelor's,21,80000,4,5,2,73,No,No,Full-Time,Age Diversity,No,Low
+EMP-1372,Ananya Sharma,51,Female,Sales,Sales Manager,Pune,Master's,1,52000,2,4,2,40,No,Yes,Full-Time,None,No,High
+EMP-1373,Nisha Iyer,33,Female,Operations,Operations Manager,Bengaluru,Bachelor's,0,57000,4,4,1,0,Yes,No,Full-Time,Gender Diversity,No,Medium
+EMP-1374,Sunita Gupta,49,Female,Operations,Operations Manager,Chennai,Bachelor's,4,42000,2,4,4,8,No,Yes,Contract,None,No,Low
+EMP-1375,Meera Verma,29,Non-Binary,HR,Recruiter,Pune,Master's,23,50000,2,2,5,6,Yes,No,Full-Time,Gender Diversity,No,Low
+EMP-1376,Siddharth Bose,60,Male,Engineering,Engineering Manager,Delhi,Bachelor's,2,91000,4,1,4,12,No,Yes,Full-Time,Gender Diversity,No,Medium
+EMP-1377,Sunita Singh,41,Female,Finance,Finance Manager,Hyderabad,Bachelor's,7,59000,2,1,1,73,No,No,Full-Time,Gender Diversity,No,Medium
+EMP-1378,Aditya Gupta,36,Female,Sales,Sales Executive,Chennai,Bachelor's,7,63000,3,1,5,48,No,No,Part-Time,Gender Diversity,No,Low
+EMP-1379,Geeta Gupta,42,Female,HR,HR Manager,Chennai,PhD,4,50000,3,3,3,26,Yes,No,Full-Time,Age Diversity,No,Low
+EMP-1380,Kavya Nair,54,Female,Operations,Operations Analyst,Delhi,Bachelor's,25,70000,5,5,4,14,Yes,No,Part-Time,None,No,Low
+EMP-1381,Neha Das,38,Non-Binary,Engineering,Engineering Manager,Pune,Master's,23,82000,1,2,3,31,Yes,No,Full-Time,Gender Diversity,No,Medium
+EMP-1382,Rekha Malhotra,30,Male,Marketing,Brand Manager,Hyderabad,Bachelor's,14,56000,2,1,4,61,Yes,No,Full-Time,None,Yes,Low
+EMP-1383,Nikhil Nair,58,Male,Engineering,Senior Engineer,Pune,Bachelor's,14,69000,1,4,5,54,No,No,Full-Time,None,Yes,Low
+EMP-1384,Meera Das,22,Female,Operations,Operations Manager,Pune,Bachelor's,5,64000,5,2,4,68,Yes,No,Full-Time,None,No,Low
+EMP-1385,Rekha Nair,53,Female,IT,Data Analyst,Delhi,Bachelor's,6,89000,5,3,1,44,No,No,Full-Time,Gender Diversity,No,Medium
+EMP-1386,Asha Singh,49,Male,HR,Recruiter,Pune,Bachelor's,1,37000,1,4,3,71,No,No,Full-Time,None,No,Low
+EMP-1387,Vikram Khanna,27,Male,HR,HR Generalist,Delhi,Master's,22,66000,5,5,1,49,No,No,Part-Time,Gender Diversity,No,Low
+EMP-1388,Divya Joshi,45,Male,Finance,Auditor,Delhi,Master's,20,85000,4,5,3,2,No,No,Full-Time,Ethnic Diversity,No,Low
+EMP-1389,Ravi Patel,40,Male,Engineering,Engineering Manager,Bengaluru,Master's,21,114000,5,4,5,63,No,No,Full-Time,Gender Diversity,No,Low
+EMP-1390,Nisha Kumar,51,Female,Operations,Supply Chain Manager,Delhi,PhD,12,66000,5,1,3,2,No,No,Full-Time,Disability Inclusion,Yes,Medium
+EMP-1391,Sunita Bose,59,Female,Marketing,Campaign Manager,Chennai,Bachelor's,1,71000,5,1,1,70,No,Yes,Full-Time,Ethnic Diversity,No,High
+EMP-1392,Lakshmi Pillai,55,Male,Finance,Finance Manager,Hyderabad,Master's,24,66000,2,2,4,15,Yes,Yes,Full-Time,Age Diversity,No,Medium
+EMP-1393,Meera Chopra,31,Male,Marketing,Brand Manager,Mumbai,Bachelor's,21,74000,4,4,2,78,No,Yes,Full-Time,None,No,Medium
+EMP-1394,Rajesh Rao,56,Male,Engineering,QA Engineer,Mumbai,High School,10,80000,2,5,3,54,No,No,Full-Time,Disability Inclusion,No,Low
+EMP-1395,Arjun Mishra,59,Female,Marketing,Campaign Manager,Chennai,Master's,12,60000,2,4,5,26,No,Yes,Full-Time,Gender Diversity,No,Low
+EMP-1396,Lakshmi Malhotra,54,Female,HR,HR Manager,Mumbai,Bachelor's,25,52000,3,5,2,59,No,No,Full-Time,Age Diversity,No,Low
+EMP-1397,Arjun Bose,24,Female,Finance,Finance Manager,Hyderabad,Master's,20,74000,3,1,3,67,No,No,Full-Time,None,No,Medium
+EMP-1398,Aditya Khanna,40,Female,Operations,Process Engineer,Delhi,Master's,12,47000,1,2,4,14,No,No,Contract,Gender Diversity,No,Low
+EMP-1399,Geeta Chopra,48,Female,HR,Recruiter,Mumbai,Bachelor's,4,40000,1,2,2,65,No,Yes,Full-Time,None,Yes,High
+EMP-1400,Nisha Mishra,37,Female,Marketing,Campaign Manager,Mumbai,Bachelor's,20,58000,2,4,5,13,No,No,Contract,Ethnic Diversity,No,Low
+EMP-1401,Nikhil Reddy,23,Female,HR,Compensation Analyst,Mumbai,Bachelor's,19,50000,2,3,3,28,Yes,No,Part-Time,None,No,Low
+EMP-1402,Neha Shah,25,Male,Operations,Operations Analyst,Mumbai,Bachelor's,0,59000,5,3,5,37,Yes,Yes,Full-Time,Ethnic Diversity,No,Medium
+EMP-1403,Arjun Mishra,24,Female,Marketing,Content Strategist,Bengaluru,Master's,10,50000,1,2,4,33,No,No,Contract,Age Diversity,No,Low
+EMP-1404,Sneha Verma,57,Female,Engineering,QA Engineer,Pune,Bachelor's,15,83000,2,4,2,21,No,Yes,Full-Time,None,No,Medium
+EMP-1405,Sunita Mishra,45,Male,Finance,Financial Analyst,Pune,Bachelor's,7,64000,2,5,5,25,Yes,Yes,Full-Time,Ethnic Diversity,No,Low
+EMP-1406,Manish Bose,28,Male,IT,IT Support,Hyderabad,Master's,21,85000,3,1,2,34,No,Yes,Full-Time,None,No,High
+EMP-1407,Kavya Khanna,30,Female,Sales,Sales Executive,Delhi,Master's,24,61000,3,1,2,8,Yes,No,Full-Time,None,Yes,Medium
+EMP-1408,Rajesh Nair,32,Non-Binary,Sales,Sales Manager,Pune,Master's,10,61000,3,4,3,47,Yes,Yes,Full-Time,Disability Inclusion,No,Medium
+EMP-1409,Neha Singh,53,Female,Marketing,Content Strategist,Bengaluru,Bachelor's,10,66000,4,5,5,9,No,Yes,Full-Time,Age Diversity,No,Low
+EMP-1410,Siddharth Kumar,48,Female,Finance,Auditor,Hyderabad,Master's,2,80000,5,4,1,14,No,No,Part-Time,Ethnic Diversity,No,Low
+EMP-1411,Divya Shah,32,Non-Binary,Finance,Financial Analyst,Bengaluru,High School,17,89000,5,2,5,19,No,No,Full-Time,Ethnic Diversity,No,Low
+EMP-1412,Nikhil Nair,35,Male,Engineering,DevOps Engineer,Bengaluru,Bachelor's,18,86000,2,4,1,57,Yes,No,Full-Time,Gender Diversity,No,Low
+EMP-1413,Rahul Mehta,22,Male,Operations,Process Engineer,Delhi,Bachelor's,11,63000,5,2,5,54,Yes,No,Full-Time,None,Yes,Low
+EMP-1414,Karan Mehta,59,Female,Operations,Supply Chain Manager,Chennai,Bachelor's,25,62000,3,1,4,9,No,No,Full-Time,None,No,Low
+EMP-1415,Sunita Joshi,23,Female,Finance,Auditor,Pune,Master's,16,61000,1,2,5,15,No,No,Full-Time,Ethnic Diversity,No,Low
+EMP-1416,Kavya Singh,47,Male,HR,HR Generalist,Mumbai,PhD,1,54000,4,1,4,13,No,Yes,Full-Time,None,Yes,High
+EMP-1417,Geeta Sharma,60,Female,Marketing,Marketing Analyst,Bengaluru,Bachelor's,22,55000,1,3,4,11,No,No,Full-Time,None,No,Low
+EMP-1418,Priya Patel,57,Male,HR,HR Manager,Hyderabad,Bachelor's,6,48000,3,5,4,12,No,No,Full-Time,Age Diversity,No,Low
+EMP-1419,Asha Mishra,32,Female,Sales,Account Manager,Delhi,High School,21,57000,1,5,2,38,No,No,Full-Time,Age Diversity,No,Low
+EMP-1420,Rohan Verma,34,Female,Sales,Sales Manager,Mumbai,Master's,11,59000,3,2,1,65,No,No,Contract,None,Yes,Medium
+EMP-1421,Rahul Reddy,46,Male,Operations,Supply Chain Manager,Delhi,Bachelor's,16,58000,3,1,2,33,No,Yes,Contract,Ethnic Diversity,No,High
+EMP-1422,Rahul Rao,57,Female,HR,HR Manager,Bengaluru,High School,6,46000,2,4,4,11,No,No,Full-Time,Gender Diversity,No,Low
+EMP-1423,Manish Singh,27,Female,Operations,Supply Chain Manager,Mumbai,Bachelor's,11,69000,5,3,2,45,No,No,Full-Time,Ethnic Diversity,Yes,Medium
+EMP-1424,Pooja Mishra,39,Female,Finance,Auditor,Delhi,Master's,10,61000,1,1,1,47,No,Yes,Full-Time,Gender Diversity,Yes,High
+EMP-1425,Neha Pillai,27,Female,HR,HR Generalist,Delhi,Bachelor's,0,48000,3,4,3,71,Yes,No,Contract,None,No,Low
+EMP-1426,Nikhil Mehta,29,Male,HR,HR Generalist,Hyderabad,Master's,14,50000,4,3,5,19,No,Yes,Full-Time,Age Diversity,No,Medium
+EMP-1427,Lakshmi Das,32,Female,Marketing,Content Strategist,Chennai,Bachelor's,14,72000,5,5,5,53,No,No,Full-Time,Gender Diversity,No,Low
+EMP-1428,Sunita Khanna,32,Non-Binary,IT,IT Support,Pune,Bachelor's,19,94000,5,2,4,71,No,No,Full-Time,Age Diversity,No,Low
+EMP-1429,Vikram Das,48,Male,Operations,Operations Analyst,Pune,Bachelor's,17,64000,5,4,2,78,Yes,No,Part-Time,None,No,Low
+EMP-1430,Ananya Nair,34,Female,Operations,Operations Manager,Hyderabad,High School,9,58000,4,4,4,36,No,Yes,Full-Time,Ethnic Diversity,No,Low
+EMP-1431,Vikram Mehta,50,Female,IT,Data Analyst,Chennai,Bachelor's,19,88000,4,3,5,8,No,No,Full-Time,Ethnic Diversity,No,Low
+EMP-1432,Swati Mishra,27,Male,Marketing,Brand Manager,Hyderabad,Bachelor's,23,55000,1,2,5,19,No,No,Part-Time,Ethnic Diversity,No,Low
+EMP-1433,Sunita Rao,31,Male,Operations,Operations Analyst,Chennai,Master's,16,49000,2,5,5,2,No,No,Full-Time,None,No,Low
+EMP-1434,Siddharth Verma,24,Female,Sales,Sales Manager,Mumbai,High School,5,59000,3,4,4,19,Yes,Yes,Full-Time,Age Diversity,No,Low
+EMP-1435,Geeta Reddy,44,Male,IT,Systems Admin,Pune,High School,23,77000,2,3,2,50,No,No,Full-Time,Ethnic Diversity,No,Medium
+EMP-1436,Ananya Patel,31,Female,Marketing,Content Strategist,Hyderabad,Master's,25,62000,2,4,5,31,Yes,No,Contract,None,No,Low
+EMP-1437,Geeta Malhotra,50,Non-Binary,Sales,Business Dev Rep,Chennai,Master's,1,50000,2,5,5,42,No,No,Part-Time,Gender Diversity,No,Low
+EMP-1438,Neha Sharma,25,Male,IT,IT Support,Delhi,High School,22,96000,5,4,5,71,No,No,Contract,Gender Diversity,No,Low
+EMP-1439,Rajesh Khanna,38,Male,Engineering,QA Engineer,Bengaluru,Master's,9,77000,2,2,3,48,Yes,No,Full-Time,Age Diversity,No,Medium
+EMP-1440,Manish Patel,55,Female,Marketing,Campaign Manager,Mumbai,Bachelor's,5,41000,1,4,3,37,No,Yes,Full-Time,Gender Diversity,Yes,Medium
+EMP-1441,Rajesh Malhotra,59,Female,Finance,Auditor,Bengaluru,Master's,12,84000,5,3,2,64,No,No,Full-Time,None,No,Medium
+EMP-1442,Mohan Sharma,24,Female,Operations,Operations Manager,Delhi,Master's,6,48000,3,4,2,4,Yes,Yes,Full-Time,None,No,Medium
+EMP-1443,Sneha Bose,49,Female,Sales,Sales Manager,Chennai,Master's,23,68000,3,3,3,42,No,Yes,Part-Time,Age Diversity,Yes,Medium
+EMP-1444,Mohan Malhotra,55,Male,Finance,Financial Analyst,Bengaluru,Master's,7,86000,5,2,2,43,No,No,Contract,Gender Diversity,No,Medium
+EMP-1445,Nikhil Verma,60,Female,HR,HR Manager,Pune,PhD,16,50000,2,5,5,30,No,No,Full-Time,None,No,Low
+EMP-1446,Rohan Chopra,31,Male,Engineering,QA Engineer,Delhi,Master's,13,83000,3,2,5,10,No,No,Full-Time,Gender Diversity,No,Low
+EMP-1447,Neha Iyer,55,Female,Engineering,DevOps Engineer,Pune,Master's,13,68000,1,2,1,28,No,Yes,Full-Time,Disability Inclusion,No,High
+EMP-1448,Nikhil Mehta,41,Male,IT,IT Support,Delhi,Master's,12,81000,4,4,3,20,No,No,Part-Time,Ethnic Diversity,No,Low
+EMP-1449,Geeta Reddy,53,Male,Finance,Accountant,Delhi,Bachelor's,9,85000,5,5,4,0,No,No,Full-Time,Disability Inclusion,No,Low
+EMP-1450,Ravi Mishra,22,Female,Marketing,Brand Manager,Mumbai,High School,0,59000,3,1,5,64,No,No,Full-Time,Ethnic Diversity,No,Medium
+EMP-1451,Asha Patel,56,Male,HR,HR Manager,Mumbai,Master's,7,38000,1,5,2,40,No,No,Full-Time,Age Diversity,Yes,Low
+EMP-1452,Rekha Pillai,39,Male,Engineering,QA Engineer,Hyderabad,Bachelor's,0,97000,5,4,3,19,Yes,No,Full-Time,None,No,Low
+EMP-1453,Ananya Nair,26,Male,Marketing,Content Strategist,Bengaluru,Master's,3,46000,1,5,5,45,No,No,Part-Time,None,No,Low
+EMP-1454,Lakshmi Mishra,57,Male,HR,HR Manager,Hyderabad,Bachelor's,7,49000,3,2,2,25,No,No,Full-Time,None,No,Medium
+EMP-1455,Aditya Bose,34,Male,Marketing,Marketing Analyst,Bengaluru,PhD,16,68000,4,2,1,18,No,No,Full-Time,Gender Diversity,No,Medium
+EMP-1456,Priya Mehta,30,Female,Marketing,Content Strategist,Hyderabad,High School,0,40000,1,2,5,44,No,No,Full-Time,Ethnic Diversity,No,Medium
+EMP-1457,Geeta Joshi,31,Male,IT,IT Manager,Bengaluru,Bachelor's,5,63000,2,3,2,58,No,No,Full-Time,Ethnic Diversity,No,Medium
+EMP-1458,Vikram Sharma,34,Female,Engineering,QA Engineer,Pune,Master's,2,77000,2,2,5,49,No,No,Full-Time,None,No,Low
+EMP-1459,Karan Shah,33,Female,Sales,Account Manager,Bengaluru,Master's,13,56000,2,1,5,60,No,No,Full-Time,None,No,Low
+EMP-1460,Manish Nair,60,Female,Finance,Auditor,Chennai,Bachelor's,24,86000,5,4,3,6,No,No,Contract,Ethnic Diversity,No,Low
+EMP-1461,Nisha Malhotra,44,Male,Finance,Finance Manager,Mumbai,Bachelor's,19,85000,4,4,2,53,No,Yes,Full-Time,None,No,Medium
+EMP-1462,Swati Verma,58,Male,Engineering,Software Engineer,Pune,High School,11,91000,4,5,2,11,No,Yes,Full-Time,None,No,Medium
+EMP-1463,Ravi Patel,50,Male,Engineering,QA Engineer,Mumbai,Master's,4,92000,4,3,5,27,No,Yes,Full-Time,Age Diversity,No,Medium
+EMP-1464,Rajesh Chopra,22,Male,Operations,Operations Analyst,Pune,Master's,8,54000,3,1,3,11,No,Yes,Full-Time,Ethnic Diversity,Yes,High
+EMP-1465,Meera Khanna,29,Female,HR,HR Generalist,Mumbai,Bachelor's,4,39000,1,1,4,76,Yes,No,Full-Time,Age Diversity,Yes,Low
+EMP-1466,Ananya Reddy,35,Female,HR,Compensation Analyst,Bengaluru,Master's,1,39000,1,1,2,70,No,No,Part-Time,Ethnic Diversity,Yes,High
+EMP-1467,Asha Pillai,25,Female,IT,Network Engineer,Delhi,Master's,5,56000,1,5,1,30,No,Yes,Part-Time,Ethnic Diversity,No,Medium
+EMP-1468,Suresh Verma,25,Non-Binary,Operations,Operations Analyst,Chennai,Bachelor's,3,38000,1,2,2,13,No,No,Full-Time,None,No,Medium
+EMP-1469,Priya Rao,40,Female,HR,HR Generalist,Bengaluru,Master's,10,56000,5,5,1,28,No,No,Full-Time,None,No,Low
+EMP-1470,Divya Shah,36,Female,Finance,Auditor,Hyderabad,Bachelor's,13,79000,4,2,3,78,No,Yes,Contract,Ethnic Diversity,No,High
+EMP-1471,Swati Mehta,35,Non-Binary,Finance,Finance Manager,Chennai,Bachelor's,9,70000,3,5,4,78,No,No,Full-Time,None,No,Low
+EMP-1472,Pooja Joshi,60,Male,Operations,Process Engineer,Mumbai,PhD,5,58000,5,4,2,42,No,Yes,Full-Time,None,No,Medium
+EMP-1473,Sneha Patel,50,Male,Engineering,Software Engineer,Delhi,Bachelor's,8,82000,2,1,1,74,No,Yes,Full-Time,Ethnic Diversity,Yes,High
+EMP-1474,Geeta Mehta,43,Female,Finance,Finance Manager,Delhi,High School,14,67000,2,1,3,24,Yes,No,Full-Time,Gender Diversity,No,Medium
+EMP-1475,Rekha Singh,56,Female,HR,Compensation Analyst,Bengaluru,Bachelor's,3,59000,5,1,2,76,No,No,Full-Time,Disability Inclusion,Yes,Medium
+EMP-1476,Neha Rao,42,Female,Engineering,Engineering Manager,Pune,Master's,11,72000,1,5,1,48,Yes,No,Full-Time,None,No,Low
+EMP-1477,Rekha Khanna,49,Non-Binary,IT,Network Engineer,Pune,Master's,18,79000,3,4,5,64,No,Yes,Full-Time,None,No,Low
+EMP-1478,Nikhil Chopra,33,Male,Finance,Accountant,Hyderabad,Bachelor's,9,87000,5,5,1,65,No,Yes,Full-Time,Ethnic Diversity,No,Medium
+EMP-1479,Aditya Gupta,41,Male,Sales,Sales Manager,Pune,Master's,4,52000,3,2,3,76,No,No,Full-Time,Ethnic Diversity,No,Medium
+EMP-1480,Arjun Bose,36,Male,HR,Compensation Analyst,Bengaluru,Bachelor's,15,41000,1,3,4,11,No,No,Full-Time,None,No,Low
+EMP-1481,Arjun Kumar,52,Male,Sales,Business Dev Rep,Mumbai,Master's,4,47000,1,2,3,8,No,No,Full-Time,Ethnic Diversity,No,Medium
+EMP-1482,Nikhil Singh,36,Female,Operations,Supply Chain Manager,Mumbai,Bachelor's,5,55000,3,3,3,5,No,No,Full-Time,Ethnic Diversity,No,Low
+EMP-1483,Arjun Pillai,32,Female,Engineering,Software Engineer,Bengaluru,Bachelor's,5,73000,2,1,2,36,No,Yes,Full-Time,None,Yes,High
+EMP-1484,Deepak Kumar,46,Male,HR,HR Manager,Pune,Bachelor's,16,42000,1,2,1,77,No,No,Full-Time,None,No,Medium
+EMP-1485,Pooja Joshi,58,Male,IT,Data Analyst,Delhi,PhD,15,94000,5,3,2,4,No,No,Full-Time,Gender Diversity,No,Medium
+EMP-1486,Swati Reddy,28,Female,Finance,Finance Manager,Pune,Master's,13,82000,5,5,1,3,Yes,No,Contract,Age Diversity,No,Low
+EMP-1487,Rohan Reddy,54,Male,Marketing,Brand Manager,Delhi,Master's,19,69000,4,5,5,47,No,No,Contract,None,No,Low
+EMP-1488,Vikram Kumar,30,Female,Engineering,QA Engineer,Delhi,PhD,3,83000,3,1,5,76,No,No,Full-Time,Age Diversity,No,Low
+EMP-1489,Divya Mehta,58,Female,Engineering,Engineering Manager,Chennai,PhD,12,105000,5,4,2,23,No,No,Full-Time,Disability Inclusion,No,Low
+EMP-1490,Rajesh Chopra,57,Female,IT,Systems Admin,Chennai,Master's,16,61000,1,4,4,62,No,No,Full-Time,None,No,Low
+EMP-1491,Rohan Shah,60,Female,Marketing,Brand Manager,Chennai,Bachelor's,12,57000,2,5,3,5,No,Yes,Full-Time,Age Diversity,No,Medium
+EMP-1492,Rekha Reddy,51,Female,Marketing,Content Strategist,Delhi,Master's,2,44000,1,2,5,41,Yes,Yes,Full-Time,Ethnic Diversity,Yes,Medium
+EMP-1493,Aditya Mishra,38,Female,IT,Systems Admin,Delhi,PhD,1,82000,4,5,5,48,No,Yes,Full-Time,Disability Inclusion,Yes,Medium
+EMP-1494,Nisha Mishra,25,Non-Binary,IT,IT Manager,Chennai,Bachelor's,22,79000,2,1,3,53,No,No,Full-Time,None,No,Medium
+EMP-1495,Rekha Joshi,55,Male,Finance,Auditor,Mumbai,Master's,10,55000,1,1,1,64,No,Yes,Full-Time,None,No,High
+EMP-1496,Swati Bose,48,Male,Sales,Sales Executive,Pune,Master's,4,61000,3,3,1,25,Yes,No,Contract,None,No,Medium
+EMP-1497,Nikhil Sharma,31,Male,Operations,Operations Manager,Delhi,Master's,20,58000,3,5,2,53,No,No,Full-Time,Gender Diversity,No,Low
+EMP-1498,Manish Gupta,27,Female,Operations,Process Engineer,Pune,Bachelor's,23,65000,4,1,4,63,No,Yes,Full-Time,None,No,Medium
+EMP-1499,Lakshmi Chopra,37,Non-Binary,HR,HR Manager,Delhi,Bachelor's,11,42000,2,5,3,36,No,No,Full-Time,Gender Diversity,No,Low
+EMP-1500,Deepak Nair,39,Female,Finance,Auditor,Delhi,Bachelor's,3,84000,5,3,5,64,Yes,No,Full-Time,Age Diversity,No,Low
